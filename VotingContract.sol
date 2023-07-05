@@ -97,3 +97,4 @@ contract VotingContract {
 // 使用钱包0x3B73a7b541e5e268147895a754eD9B0a71b1AB79
 // 和0x019B788B0525Fd11Af0D27ef77733d12c148C154
 // 都部署了一次，所以会看到2个100%相似的合约。
+// https://sepolia.etherscan.io/address/0x8fd6615e26fbc4c359fe6aadb9fecc334578be4b
